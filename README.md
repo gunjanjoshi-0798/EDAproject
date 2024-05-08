@@ -1,7 +1,3 @@
-Here's a `readme.md` template based on the description of your hotel booking dataset:
-
----
-
 # Hotel Booking Dataset Analysis
 
 ## Overview

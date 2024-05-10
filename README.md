@@ -53,11 +53,6 @@ This dataset contains booking information for city hotels and resort hotels. It 
 - matplotlib
 - seaborn
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/gunjanjoshi-0798/EDAproject.git`
-2. Run the collab notebook or Python script to perform the analysis.
-
 ## Author
 
 Gunjan Joshi

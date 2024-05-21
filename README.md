@@ -4,6 +4,10 @@
 
 This dataset contains booking information for city hotels and resort hotels. It includes details such as booking dates, length of stay, number of guests, and more. The dataset can be used to analyze booking patterns, cancellation rates, and other factors related to hotel bookings.
 
+## Project Architecture
+
+![image](https://github.com/gunjanjoshi-0798/EDAproject/assets/155617045/dbb271d3-595b-4943-a32f-b1d947957cf9)
+
 ## Dataset Description
 
 - `hotel`: Type of hotel (city hotel or resort hotel)
@@ -41,10 +45,17 @@ This dataset contains booking information for city hotels and resort hotels. It 
 
 ## Analysis Goals
 
-- Explore booking patterns and trends
-- Analyze cancellation rates and factors influencing cancellations
-- Identify key factors affecting booking decisions
-- Predict future bookings or cancellations
+-Data loading and cleanup
+
+-Data Exploration techniques and logic.
+
+-Logic of handling missing values, and outliers.
+
+-Visualization techniques.
+
+-To get key insights and understandings.
+
+-Conclusion of the project.
 
 ## Tools Used
 

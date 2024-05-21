@@ -53,6 +53,17 @@ This dataset contains booking information for city hotels and resort hotels. It 
 - matplotlib
 - seaborn
 
+## Key Insights from Data Analysis
+
+- City Hotels are most preffered so owners can offer discounts on resort Hotel to increase bookings.
+- Around 27.52% of bookings are cancelled so Hotel can offer layality discount if guests don't cancel their booking.
+- Hotel can maintain raw materials for BB type meal in advance to avoid delay as BB(Bed and Breakfast) is the most preffered meal.
+- Hotel should increase number of rooms in City Hotels to decrease the waiting time.
+- TA has the most number of bookings over other market segments so Hotel could run some offer to get more bookings from other segment.
+- Room type A is most preffered by guests so Hotel should increase the number of A type room.
+- Number of repeated guests is low that indicates that there is something they don't like about Hotel and that needs to be fixed to increase number of repeated guests.
+- Maximum number of guests were from Portugal.
+
 ## Author
 
 Gunjan Joshi
